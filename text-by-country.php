@@ -4,7 +4,7 @@ Plugin Name: Text by country
 Description: Показываем текст по правилам
 Version: 1.0
 Author: Maxim Grishan
-Commit 2
+Commit 1
 */
     
 class tbcInit {
